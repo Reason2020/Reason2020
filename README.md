@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reason Shrestha</h1>
-<h3 align="center">I'm a Software Developer && a Student!</h3>
+<h3 align="center">I'm a Software Developer && a Student based in Kathmandu, Nepal!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reason2020&label=Profile%20views&color=0e75b6&style=flat" alt="Reason2020" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Reason2020&theme=dracula" alt="Reason2020" /></a> </p>
